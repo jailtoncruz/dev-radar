@@ -7,6 +7,9 @@
   <a href="https://twitter.com/jailtoncruzz" target="_blank">
     <img alt="Twitter: jailtoncruzz" src="https://img.shields.io/twitter/follow/jailtoncruzz.svg?style=social" />
   </a>
+
+[![OSCS Status](https://www.oscs1024.com/platform/badge/jailtoncruz/dev-radar.svg?size=small)](https://www.oscs1024.com/project/jailtoncruz/dev-radar?ref=badge_small)
+
 </p>
 
 > Dev Radar
@@ -33,14 +36,16 @@ yarn test
 
 👤 **Jailton Cruz**
 
-* Website: https://www.linkedin.com/in/jailtoncruz/
-* Twitter: [@jailtoncruzz](https://twitter.com/jailtoncruzz)
-* Github: [@jailtoncruz](https://github.com/jailtoncruz)
-* LinkedIn: [@jailtoncruz](https://linkedin.com/in/jailtoncruz)
+- Website: https://www.linkedin.com/in/jailtoncruz/
+- Twitter: [@jailtoncruzz](https://twitter.com/jailtoncruzz)
+- Github: [@jailtoncruz](https://github.com/jailtoncruz)
+- LinkedIn: [@jailtoncruz](https://linkedin.com/in/jailtoncruz)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+---
+
+_This README was generated with ❤️ by
+[readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
