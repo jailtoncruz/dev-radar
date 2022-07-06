@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { StyleSheet, Image, View, Text, TextInput, TouchableOpacity } from 'react-native';
 import MapView, { Marker, Callout } from 'react-native-maps';
-import { requestPermissionsAsync, getCurrentPositionAsync } from 'expo-location';
+import {  getCurrentPositionAsync, requestForegroundPermissionsAsync } from 'expo-location';
 import { MaterialIcons } from '@expo/vector-icons';
 
 import api from '../services/api';
@@ -14,7 +14,7 @@ function Main({ navigation }) {
 
     useEffect(() => {
         async function loadInitialPosition() {
-            const { granted } = await requestPermissionsAsync();
+            const { granted } = await requestForegroundPermissionsAsync();
 
             if(granted) {
                 const { coords } = await getCurrentPositionAsync({

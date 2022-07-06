@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "devradar",
+    "slug": "devradar",
     "privacy": "public",
     "platforms": [
       "ios",
